@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // se citesc 2 numere a si b
-// sa se afiseze cel care are cele mai multe numere prime
+// sa se afiseze cel care are cele mai multe numere impare
 
 int cifre_impare(int numar);
 

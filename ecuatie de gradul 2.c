@@ -4,7 +4,7 @@
 double grad1(int a, int b, int *ok);
 double *grad2(int a, int b, int c, int *ok);
 
-// Ecuaţia de gradul 1. A*x^2+B*x+C=0;
+// Ecuaţia de gradul 2. A*x^2+B*x+C=0;
 void main()
 {
     int a, b, c, ok;
